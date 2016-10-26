@@ -1,0 +1,78 @@
+html,body{
+  height: 100%;
+}
+body{
+  margin: 0;
+  background-image: url('../images/bj.png');
+}
+h1{
+  text-align: center;
+  color: rgb(143, 232, 43);
+}
+.go-x{
+  font-size: 18px;
+  font-family: "微软雅黑";
+  position: fixed;
+  top: 250px;
+  right: 5px;
+  background-color: #e45353;
+  opacity: 0.7;
+  line-height: 25px;
+  width: 70px;
+  height: 200px;
+  display: block;
+  text-align: center;
+  border-radius: 5%
+}
+.go-x a{
+  color: #1fd2d7;
+  text-decoration: none;
+}
+.content{
+  width: 100%;
+  height: 100%;
+}
+.item{
+  width: 90%;
+  height: 200px;
+
+}
+.item img{
+  float: right;
+  width: 180px;
+  height: 180px;
+}
+.icons{
+  margin-top: 35px;
+width: 90px;
+height: 90px;
+background-image: url('../images/jl.png');
+background-size: 400%;
+background-repeat: no-repeat;
+display: inline-block;
+}
+.icon-1{
+  background-position: -185px -80px;
+}
+.icon-2{
+  background-position: -185px -165px;
+}
+.icon-3{
+  background-position: -185px -250px;
+}
+.icon-4{
+  background-position: -190px -325px;
+}
+.icon-5{
+  background-position: -70px -160px;
+}
+.icon-6{
+  background-position: -80px -235px;
+}
+.icon-7{
+  height: 80px;
+  background-position: -80px -320px;
+}
+.icon-8{
+  background-position: -90px -395px;
+}
